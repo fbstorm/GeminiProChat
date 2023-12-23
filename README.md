@@ -1,4 +1,25 @@
 # GeminiProChat
+1
+
+2
+
+3
+
+4
+
+5
+
+教学视频
+https://www.freedidi.com/11128.html
+1
+
+1
+
+1
+
+1
+
+1
 
 Minimal web UI for GeminiPro Chat.
 
